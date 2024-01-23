@@ -47,6 +47,6 @@ I) **Retirada de assinatura mensal**<br/>
 II) **Contato com o cliente antes de chegar a 20 dias de atraso, buscando uma negociação ao pagamento em atraso**<br/>
 III) **Oferecimento de desconto ao cliente que ligar 3/4 vezes ao callcenter**<br/>   
 
-Assim, com a retirada dos fatores-problema citados anteriormente, **a taxa de cancelamento cai a 18,40%**, podendo ser mais ainda reduzida com a manipulação mais detalhada dos dados fornecidos.Por fim, o presente projeto conseguiu unir análises de forma descritiva, prescritiva e diagnóstica.
+Assim, com a retirada dos fatores-problema citados anteriormente, **a taxa de cancelamento cai a 18,40%**, podendo ser mais ainda reduzida com a manipulação mais detalhada dos dados fornecidos. Por fim, o presente projeto conseguiu unir análises de forma descritiva, prescritiva e diagnóstica.
 
  
